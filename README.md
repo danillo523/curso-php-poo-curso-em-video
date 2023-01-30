@@ -35,6 +35,9 @@ Objeto é algo material ou abstrato , sendo possível se perceber pelos sentidos
  - **Privado**: não é acessível fora da classe
  - **Protegido** acessível dentro da classe e classes filhas (subclasses)
 
+
 ## Métodos especiais
 
-
+- Construtor
+- Getter
+- Setter
