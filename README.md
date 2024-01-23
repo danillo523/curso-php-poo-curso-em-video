@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7Vgc
 
 # Anotações
 
-  A **Programação Orientada a Objetos**,  criada pelo por  **Alan Kay**  é um paradigma de programação em que tem o objetivo de tornar a programação mais próxima do mundo em que vivemos utilizando **Objetos** tenso suas **Características**, **Comportamentos** e **Estados**
+  A **Programação Orientada a Objetos**,  criada pelo por  **Alan Kay**  é um paradigma de programação em que tem o objetivo de tornar a programação mais próxima do mundo em que vivemos utilizando **Objetos** tendo suas **Características**, **Comportamentos** e **Estados**
 
 Características = Atributos
 Comportamentos = Métodos
